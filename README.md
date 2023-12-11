@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [http://matthew23.xyz/](http://matthew23.xyz/)
 
-- 💬 Ask me about **Programming is my passion ❤️**
+- **Programming is my passion ❤️**
 
 - 📫 How to reach me **matthew235921@gmail.com**
 
