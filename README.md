@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">- 👨‍💻 All of my projects are available at [http://notmatthew.pl/](http://notmatthew.pl/)<br><br>- 💬 Ask me about **Programming is my passion ❤️**<br><br>- 📫 How to reach me **matthew235921@gmail.com**</p>
+<p align="center">- 👨‍💻 All of my projects are available at http://notmatthew.pl<br><br>- 💬 Ask me about **Programming is my passion ❤️**<br><br>- 📫 How to reach me **matthew235921@gmail.com**</p>
 
 ###
 
