@@ -1,26 +1,41 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
-<h3 align="center">⚡ Beginner Full-Stack Developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=matthew2394&label=Profile%20views&color=0e75b6&style=flat" alt="matthew2394" /> </p>
+###
 
-- 👨‍💻 All of my projects are available at [http://matthew23.xyz/](http://matthew23.xyz/)
+<p align="center">⚡ Beginner Full-Stack Developer</p>
 
-- 💬 Ask me about **Programming is my passion ❤️**
+###
 
-- 📫 How to reach me **matthew235921@gmail.com**
+<h2 align="left">About me</h2>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://discord.gg/https://discord.gg/UVCTFehw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/UVCTFehw" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="center">Languages and Tools:</h3>
-<br>
-<br>
-<br>
+<p align="center">- 👨‍💻 All of my projects are available at [http://notmatthew.pl/](http://notmatthew.pl/)<br><br>- 💬 Ask me about **Programming is my passion ❤️**<br><br>- 📫 How to reach me **matthew235921@gmail.com**</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matthew2394&show_icons=true&locale=en&layout=compact" alt="matthew2394" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matthew2394&show_icons=true&locale=en" alt="matthew2394" /></p>
+<h2 align="left">I code with</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matthew2394&" alt="matthew2394" /></p>
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+</div>
+
+###
