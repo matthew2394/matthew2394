@@ -15,10 +15,11 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+# 💻 Tech Stack:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,vite,ts,tailwind,redis,react,py,lua,idea,go)](https://mscode.pl/)
 <br>
 <br>
-<br></p>
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matthew2394&show_icons=true&locale=en&layout=compact" alt="matthew2394" /></p>
 
