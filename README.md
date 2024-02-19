@@ -15,7 +15,8 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> [![My Skills](https://skillicons.dev/icons?i=js,html,css,vite,ts,tailwind,react,cs,cpp,nextjs)](notmatthew.pl)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vite,ts,tailwind,react,cs,cpp,nextjs)](https://skillicons.dev)
+<p align="center"> [![My Skills](https://skillicons.dev/icons?i=js,html,css,vite,ts,tailwind,react,cs,cpp,nextjs)] (notmatthew.pl)
 <br>
 <br>
 <br></p>
