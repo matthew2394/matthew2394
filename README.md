@@ -15,8 +15,6 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-# 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,vite,ts,tailwind,redis,react,py,lua,idea,go)](https://mscode.pl/)
 <br>
 <br>
 <br>
