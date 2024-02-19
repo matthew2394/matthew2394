@@ -15,6 +15,7 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,vite,ts,tailwind,redis,react,py,lua,idea,go)](https://notmatthew.pl/)
 <br>
 <br>
 <br>
