@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">⚡ Beginner Full-Stack Developer</p>
+<p align="center">⚡ Front-End Developer</p>
 
 ###
 
